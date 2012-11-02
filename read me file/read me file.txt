@@ -1,0 +1,63 @@
+Question 1
+function qmul_que1(videoname,i, threshold)
+videoname = Enter videoname
+      i   = frame number
+threshold = threshold value
+
+
+question 2
+function qmul_que2(videoname,i, threshold) 
+ideoname = Enter videoname
+      i   = frame number
+threshold = threshold value
+
+
+question 3
+function qmul_que3(videoname,i,l)
+videoname = Enter videoname
+        i= frame number
+        l = level between 0 and 1
+
+Question 4
+function qmul_que4(videoname,k )
+videoname = Enter videoname
+       k  =   frame number
+
+
+question 6
+function qmul_qe6(videoname,a)
+videoname = Enter videoname
+       a = frame number
+
+question 7
+function qmul_qe7(videoname,a)
+videoname = enter videoname
+        a= frame number
+
+question 8
+qmul_qe8(videoname,threshold)
+videoname = enter videoname
+threshold = threshold value
+
+question 9
+qmul_que9(videoname,threshold,a)
+videoname = enter videoname
+threshold = threshold value
+       a  = frame number
+
+question 10
+qmul_quee10(videoname,threshold,a,b)
+videoname = enter videoname
+threshold = threshold value
+       a  = frame number
+       b =  Enter another frame
+
+
+question 11
+qmul_quee11(videoname,a)
+videoname = enter videoname
+        a  = frame number
+
+question 12
+ qmul_quee12(videoname)
+ videoname = enter videoname
